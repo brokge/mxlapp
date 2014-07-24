@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="darkgray">#ff404040</color>
+    <color name="black">#ff000000</color>
+    <color name="blackdark">#ff000000</color>
+    <color name="red">#ffff0000</color>
+    <color name="color">#ff808080</color>
+    <color name="green">#ff00ff00</color>
+    <color name="deepgreen">#295307</color>
+    <color name="lightgray">#ffc0c0c0</color>
+    <color name="white">#ffffffff</color>
+    <color name="yellow">#ffffff00</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="gray">#ff808080</color>
+    <color name="bg_gray">#ffe4e4e4</color>
+    <color name="magenta">#ffff00ff</color>
+    <color name="cyan">#ff00ffff</color>
+    <color name="weightgreen">#2F4F4F</color>
+    <color name="transparent">#00000000</color>
+    <color name="half_transparent">#50000000</color><!-- 0-99是透明程度 -->
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sh_line">#ffcccccc</color>
+    <color name="sh_line_one">#ffdddddd</color>
+    <color name="sh_line_two">#ffa8a8a8</color>
+    <color name="deepred">#B05040</color>
+
+    <color name="dialog_title">#3B3B3B</color>
+    <color name="dialog_bg">#EFEFEF</color>
+    <color name="dialog_line">#D7D7D7</color>
+
+
+</resources>
