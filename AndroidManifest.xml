@@ -45,6 +45,11 @@
                 android:configChanges="orientation|keyboardHidden"
                 android:screenOrientation="sensor" >
         </activity>
+        <activity android:name=".GestureActivity"
+                  android:configChanges="orientation|keyboardHidden"
+                  android:screenOrientation="sensor"
+                >
+        </activity>
         
         <service
             android:name="com.baidu.location.f"

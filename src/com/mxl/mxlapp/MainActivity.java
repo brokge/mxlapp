@@ -34,6 +34,14 @@ public class MainActivity extends Activity {
                 MainActivity.this.startActivity(intent);
             }
         });
+        findViewById(R.id.buttonGesture).setOnClickListener(new OnClickListener(){
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this,GestureActivity.class);
+                MainActivity.this.startActivity(intent);
+            }
+        });
+
 
 
 	}
